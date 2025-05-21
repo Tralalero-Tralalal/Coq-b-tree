@@ -4,7 +4,7 @@ version: "1.0"
 maintainer: "humamalhusaini@tutamail.com"
 authors: "Pierre Castoran, slightly modified by Humam Alhusaini"
 homepage: "https://github.com/Tralalero-Tralalal/Coq-b-tree"
-dev-repo: "git+://github.com/Tralalero-Tralalal/Coq-b-tree"
+dev-repo: "git+https://github.com/Tralalero-Tralalal/Coq-b-tree"
 bug-reports: "https://github.com/Tralalero-Tralalal/Coq-b-tree/issues"
 license: "MIT"
 depends: [
