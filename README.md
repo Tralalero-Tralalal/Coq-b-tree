@@ -1,4 +1,4 @@
-## B-Tree Data Structure for Rocq
+## Binary-Tree Data Structure for Rocq
 By: Pierre Castoran, modified and published by me.
 
 This is the Binary-Tree Data Structure from the book I was reading, Coq'Art. I decided to publish it as (to my knowledge), there are no other Coq modules that represent a B-tree. This module has many supporting proofs, and I'd love to add more,
